@@ -17,9 +17,12 @@ node index.js
 Le projet fonctionne sur http://localhost:3000.
 
 Routes API
-Action	URL	Description
 POST /tasks	Ajouter une nouvelle tâche
+
 GET /tasks	Voir toutes les tâches
+
 GET /tasks/:id	Voir une tâche avec son ID
+
 PUT /tasks/:id	Modifier une tâche existante
+
 DELETE /tasks/:id	Supprimer une tâche
