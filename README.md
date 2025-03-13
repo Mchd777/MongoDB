@@ -7,7 +7,7 @@ Node.js
 Express.js
 MongoDB
 
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
+git clone (https://github.com/Mchd777/MongoDB.git)
 cd nom-du-repo
 
 Installer les outils nécessaires
